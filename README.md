@@ -19,4 +19,4 @@ This repository is divided into two main sections, similar to my Python setup:
 
 ## 🛠️ Tools Used
 * **Language:** Java
-* **IDE:** (VS Code)
+* **IDE:** (IntelliJ)
