@@ -3,6 +3,7 @@ A shopping cart program where a user can type in a product, how much it costs an
 they want and return the items in the shopping cart and the total.
  */
 
+
 package projects.shoppingcart;
 
 import java.util.Scanner;
