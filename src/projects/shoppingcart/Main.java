@@ -25,7 +25,7 @@ public class Main {
 
         double total = price * quantity;
 
-        System.out.println("You bought " + " " + quantity  + " " + item + "/s");
+        System.out.println("You bought " + quantity  + " " + item + "/s.");
         System.out.println("Your total is R" + total);
 
 }
