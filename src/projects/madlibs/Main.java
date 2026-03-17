@@ -33,6 +33,7 @@ public class Main {
          " smell of " + bird + " roasting in the " + room + ". I " + verb1 + " down the stairs to see if I could help " +
                 verb2 + " the dinner.");
 
+        prompt.close();
 
     }
 
