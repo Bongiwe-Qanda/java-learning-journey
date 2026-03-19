@@ -4,10 +4,9 @@ they want and return the items in the shopping cart and the total.
  */
 
 
-package projects.shoppingcart;
+package projects.project02_ShoppingCart;
 
 import java.util.Scanner;
-import java.util.SplittableRandom;
 
 public class Main {
     public static void main(String[] args) {

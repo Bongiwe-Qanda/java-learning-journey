@@ -1,4 +1,4 @@
-package projects.madlibs;
+package projects.project01_Madlibs_Game;
 
 import java.util.Scanner;
 
