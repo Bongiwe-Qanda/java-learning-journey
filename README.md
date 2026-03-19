@@ -10,7 +10,7 @@ This repository is divided into two main sections, similar to my Python setup:
 * **`/projects`**: Standalone mini-projects built applying the concepts learned in the lessons.
 
 ## 🚀 Current Progress
-- [ ] Basic Syntax & Data Types
+- [x] Basic Syntax & Data Types
 - [ ] Control Flow (If statements, Switches, Loops)
 - [ ] Arrays & ArrayLists
 - [ ] Object-Oriented Programming (OOP)
