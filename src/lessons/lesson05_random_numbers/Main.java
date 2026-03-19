@@ -3,7 +3,7 @@ Working with the random class and generating random numbers(ints/ doubles)
 
  */
 
-package lessons.lesson05_random;
+package lessons.lesson05_random_numbers;
 
 import java.util.Random;
 
