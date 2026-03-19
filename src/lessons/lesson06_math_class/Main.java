@@ -1,4 +1,4 @@
-package lessons.lessons06_math_class;
+package lessons.lesson06_math_class;
 import java.util.Scanner;
 public class Main {
     static void main(String[] args) {

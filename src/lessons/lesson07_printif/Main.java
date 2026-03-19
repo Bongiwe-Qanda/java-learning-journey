@@ -26,7 +26,7 @@ boolean - b
 
  */
 
-package lessons.lessons07_printif;
+package lessons.lesson07_printif;
 
 public class Main {
    public static void main(String[] args) {
