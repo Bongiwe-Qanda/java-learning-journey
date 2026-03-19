@@ -28,8 +28,8 @@ public class Main {
         double a = p * Math.pow((1 + (r/n)),(n*t) );
         System.out.printf("The amount after %d years is R%.2f",t,a);
 
-
         scanner.close();
     }
 }
+
 
