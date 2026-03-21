@@ -1,4 +1,4 @@
-package lessons.lesson11_Logical_Operators;
+package lessons.lesson11_Ternary_Operator;
 
 public class Main {
     public static void main(String[] args) {
