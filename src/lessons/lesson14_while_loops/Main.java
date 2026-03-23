@@ -4,9 +4,10 @@ public class Main {
     public static void main(String[] args) {
         /*
     while loop = repeating some code while a certain condition remains true
-                 if the condition becomes false, the loop is exited
-                 helpful when we don't want a user to continue without doing something
-                 BE CONSCIOUS OF INFINITE LOOPS!!!
+               -> if the condition becomes false, the loop is exited
+               ->  helpful when we don't want a user to continue without doing something
+               -> BE CONSCIOUS OF INFINITE LOOPS!!!
+               -> Useful when accepting user input
 
      */
         // Agame: for the user to quit they have to press the q key
