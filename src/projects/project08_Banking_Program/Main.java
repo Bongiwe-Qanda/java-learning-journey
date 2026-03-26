@@ -1,4 +1,4 @@
-package projects.projects08_Banking_Program;
+package projects.project08_Banking_Program;
 import java.util.Scanner;
 public class Main {
 
