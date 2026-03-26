@@ -6,12 +6,12 @@ Welcome to my Java repository! I am using this space to track my progress as I l
 
 This repository is divided into two main sections, similar to my Python setup:
 
-* **`/Lessons`**: Code snippets, exercises, and notes from specific video lessons. Grouped by core concepts (Basics, OOP, GUI, etc.).
+* **`/Lessons`**: Code snippets, mini exercises, and notes from specific video lessons. Grouped by core concepts (Basics, OOP, GUI, etc.).
 * **`/projects`**: Standalone mini-projects built applying the concepts learned in the lessons.
 
 ## 🚀 Current Progress
 - [x] Basic Syntax & Data Types
-- [ ] Control Flow (If statements, Switches, Loops)
+- [x] Control Flow (If statements, Switches, Loops)
 - [ ] Arrays & ArrayLists
 - [ ] Object-Oriented Programming (OOP)
 - [ ] File I/O
