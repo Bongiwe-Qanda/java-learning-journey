@@ -7,9 +7,11 @@ public class Main {
                 -> makes methods more flexible(no overload methods are needed)
                 -> java packs arguments into an array
                 -> ...j
-
-
-
          */
     }
 }
+
+
+
+
+
