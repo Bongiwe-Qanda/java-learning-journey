@@ -1,4 +1,4 @@
-package projects.projects10_Quiz_Game;
+package projects.project10_Quiz_Game;
 
 import java.util.Scanner;
 
