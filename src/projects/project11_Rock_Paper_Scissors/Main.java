@@ -29,6 +29,7 @@ public class Main {
                     !user_choice.equals("paper") &&
                     !user_choice.equals("scissors")){
                 System.out.println("Invalid choice");
+                continue;
             }
 
 
