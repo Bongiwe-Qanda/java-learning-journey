@@ -2,9 +2,6 @@ package projects.project12_Slot_Machine;
 import java.util.Scanner;
 
 public class Main {
-    public Main() {
-        super();
-    }
 
     public static void main(String[] args) {
         // JAVA SLOT MACHINE - a slot machine where a user is going to bet an amount for the symbols, if the user gets
@@ -23,19 +20,31 @@ public class Main {
         System.out.println("Symbols : 🍒 🍉 🍋 🔔 ⭐");
         System.out.println("**************************");
 
-        // Play if Balance > 0
-        System.out.printf("Current balance: R%d\n",balance);
 
+        // Play if balance > 0
+        while(balance > 0){
+            System.out.printf("Current balance: R%d\n",balance);
+            System.out.print("Place your bet amount: ");
+            bet = scanner.nextInt();
 
-        // Enter bet amount
+        // verify if bet < balance
+            if(bet > balance){
+                System.out.println("INSUFFICIENT FUNDS!!");
+                continue;
+            }
+        //  verify if bet is > 0
+            else if(bet <= 0) {
+                System.out.println("Bet MUST be greater that 0");
+                continue;
 
-        System.out.print("Enter your bet amount: ");
-        bet = scanner.nextInt();
+            }
+        // Subtract bet from balance
+            else{
+                balance -= bet;
+                System.out.printf("Balance: R%d\n",balance);
+            }
+        }
 
-            // Verify if bet > balance
-        if(bet > balance )
-            //  Verify if bet > 0
-            // Subtract bet from balance
 
         // Spin row
         // Print row
