@@ -7,7 +7,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        // JAVA SLOT MACHINE
+        // JAVA SLOT MACHINE - a slot machine where a user is going to bet an amount for the symbols, if the user gets
+        //                     any matching symbols they get receive a payout. At the end they receive their balance
 
         // Declare variables
         Scanner scanner = new Scanner(System.in);
@@ -17,12 +18,22 @@ public class Main {
         String[] row;
 
         // Display welcome message
-
+        System.out.println("**************************");
         System.out.println("WELCOME TO JAVA SLOTS");
-        System.out.println("Symbols : ");
+        System.out.println("Symbols : 🍒 🍉 🍋 🔔 ⭐");
+        System.out.println("**************************");
+
         // Play if Balance > 0
+        System.out.printf("Current balance: R%d\n",balance);
+
+
         // Enter bet amount
+
+        System.out.print("Enter your bet amount: ");
+        bet = scanner.nextInt();
+
             // Verify if bet > balance
+        if(bet > balance )
             //  Verify if bet > 0
             // Subtract bet from balance
 
