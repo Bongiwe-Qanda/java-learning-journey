@@ -10,7 +10,7 @@ public class Car {
     }
 
     void drive(){
-        System.out.println("You drive the " + this.colour+ " " + this.model );
+        System.out.println("You drive the " + this.colour + " " + this.model);
     }
 
 }
